@@ -1,0 +1,17 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "<!-- \r Create a node application to perform the following tasks:\r Import a fs module to work with a text file called data.txt\r Write content to a data.txt file\r Write a second content to data.txt\r Tell me, did the second content override the previous one or was it placed on the next line.\r Append new content to data.txt\r  -->",
+  "main": "index.js",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
